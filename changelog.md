@@ -13,6 +13,7 @@
 - [x] Create section folders and upload SRD markdown pages.
 - [x] Create README file.
 - [x] Create Changelog.
+- [x] Create initial release.
 
 ## May 11th, 2026
 
