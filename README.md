@@ -46,5 +46,6 @@ Visit [Josh Plunket's Website](https://obsidianttrpgtutorials.com) to learn more
 <details>
  <summary>REport & REfork</summary>
 
-Please **REport** any [issues](./issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](./pulls).
+Please **REport** any [issues](../issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](../pulls).
 </details>
+A
