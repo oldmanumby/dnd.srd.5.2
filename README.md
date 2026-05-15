@@ -3,7 +3,7 @@
 
 ---
 
-# D&D SRD v5.2.1 reMastered!
+# D&D 5E (2024) SRD v5.2.1 reMastered!
 
 For additional information and other reMastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
